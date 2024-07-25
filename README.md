@@ -53,7 +53,4 @@ Contact
 If you have any questions or feedback, feel free to reach out at [punuvinura2000@gmail.com].
 
 Thank you for using the Smart Door Lock System!
-```bash
-
 Replace `punuvinura2000` with your actual GitHub username and `punuvinura2000@gmail.com` with your email address. If you create a demo gif, you can link to it in the `Demo` section. If not, you can remove that section from the README.
-```
